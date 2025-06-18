@@ -2,21 +2,21 @@
 name: Help Request
 about: Ask for help from the community
 title: 'Help with: [BRIEF DESCRIPTION]'
-labels: help-wanted, question
+labels: help-wanted
 assignees: ''
 ---
 
-## What I'm Trying to Do
-<!-- Describe what you're attempting -->
+## What I'm trying to do
 
-## What I've Tried
-<!-- List your attempts so far -->
-1. 
-2. 
 
-## Where I'm Stuck
-<!-- Be specific about what's not working -->
+## What I've tried
 
-## My Current Code
+
+## My code
 ```python
-# Paste relevant code here
+
+```
+
+## The error (if any)
+
+## What I think might be wrong

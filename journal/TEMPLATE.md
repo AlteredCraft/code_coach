@@ -1,51 +1,16 @@
-# Learning Journal Entry
+# Lesson [NUMBER] Journal
 
 **Date**: [DATE]  
-**Lesson**: [LESSON NAME]  
-**Time Spent**: [HOURS]
+**Time Spent**: [TIME]
 
-## What I Learned
-
-### New Concepts
-- 
-- 
-- 
-
-### AI Usage
-**Times I used AI assistance**: [COUNT]
-**What I asked about**:
-1. 
-2. 
-
-**How AI helped**:
+## What clicked for me
 
 
-**What I figured out myself**:
+## What I'm still fuzzy on
 
 
-## Challenges Faced
-
-### Technical Challenges
+## How I used AI
 
 
-### Learning Process Challenges
-
-
-## Code I'm Proud Of
+## Code I'm proud of
 ```python
-# Paste a snippet you're particularly proud of
-```
-
-**Why I'm proud of this**:
-
-
-## Questions for Next Time
-- 
-- 
-
-## Confidence Rating
-- Understanding the concepts: [1-5]
-- Writing code independently: [1-5]  
-- Knowing when to use AI: [1-5]
-
-## Tomorrow's Goal
