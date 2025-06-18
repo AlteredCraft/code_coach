@@ -44,6 +44,16 @@ Each lesson includes:
 2. Maintain your learning journal in `/journal`
 3. Submit PRs for project milestones
 
+## 🧪 This is a Spike!
+
+This is an early prototype to test our core assumptions:
+- Can CLAUDE.md files effectively coach AI behavior?
+- Is GitHub-based learning too complex for beginners?
+- Do learning journals enhance understanding?
+- Can students self-pace successfully?
+
+**Your feedback is crucial!** Please open issues with your experience.
+
 ## 🤝 Contributing
 
 This is a community project! See [CONTRIBUTING.md] for guidelines.
