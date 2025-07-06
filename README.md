@@ -54,4 +54,9 @@ This course emphasizes:
 
 ---
 
-*This is an experimental curriculum testing AI-assisted learning. Your feedback shapes the project!*
+*This is an experimental curriculum testing AI-assisted learning.*
+
+---
+
+## Associated content
+- https://www.linkedin.com/pulse/initial-findings-can-claude-code-become-effective-programming-keen-8fkdc/
