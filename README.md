@@ -1,6 +1,6 @@
 # Learn Python with AI 🤖🐍
 
-Learn Python programming while building healthy AI collaboration skills.
+This is an early stage experiement to determine if Claude Code can be used to effectivly teach Python programming while building healthy AI collaboration skills. There is no "app" involved, just Claude Code, some markdown files, and CLAUDE.md files.
 
 ## Getting Started
 
