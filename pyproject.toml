@@ -1,0 +1,11 @@
+[project]
+name = "code-coach"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.12.2",
+]
